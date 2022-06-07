@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center">
+
+   <androidx.cardview.widget.CardView
+       android:layout_width="80dp"
+       android:layout_height="80dp"
+      app:cardCornerRadius="50dp"
+       android:layout_margin="10dp"
+     >
+
+
+       <ImageView
+           android:id="@+id/imgphonelogo"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:src="@drawable/mi"
+           android:scaleType="centerCrop"
+          />
+
+
+
+
+   </androidx.cardview.widget.CardView>
+
+
+    <TextView
+        android:id="@+id/textphone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Redmi"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:layout_marginTop="-10dp"
+      />
+
+</LinearLayout>

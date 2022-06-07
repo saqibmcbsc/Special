@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Special</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="location">Select a Deliver location to see product availability and delivery options</string>
+    <string name="Address">624 Gali No. 7(R),kanch ka pull, Ahmad Nagar,Meerut (250002)</string>
+    <string name="Addadress">Add an address or pick-up point</string>
+    <string name="off">Up to 60% off| Deals on women\'s fashion</string>
+    <string name="oneplus">OnePlus Nord 2 5G (8GB RAM,128GB Storage)</string>
+    <string name="text">OnePlus Nord 2 5G (Bahamas Blue,8GB RAM,128GB Storage)</string>
+
+
+</resources>

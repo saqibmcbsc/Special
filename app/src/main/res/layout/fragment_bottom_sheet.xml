@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+
+    tools:context=".BottomSheetFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Choose your location"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+      android:text="@string/location"
+        android:layout_marginTop="5dp"
+        android:textSize="15sp"
+        android:layout_marginLeft="15dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:orientation="horizontal"
+       android:gravity="center"
+        >
+
+       <LinearLayout
+           android:id="@+id/linearaddress"
+           android:layout_width="150dp"
+           android:layout_height="150dp"
+           android:layout_gravity="center"
+           android:orientation="vertical"
+          android:background="@drawable/address_background"
+         >
+
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="Saqib Saifi"
+               android:textSize="20sp"
+               android:textStyle="bold"
+               android:textColor="@color/black"
+                android:layout_marginLeft="5dp"
+               android:layout_marginTop="5dp"/>
+
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="@string/Address"
+               android:layout_gravity="center"
+               android:textSize="13sp"
+               android:layout_marginTop="10dp"
+               android:layout_marginLeft="5dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Default address"
+                android:textSize="10sp"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center"/>
+
+
+
+       </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/add_an_address_background"
+            >
+
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/Addadress"
+                android:textSize="17sp"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:gravity="center"
+                android:textColor="@color/teal_700"/>
+
+
+
+        </LinearLayout>
+
+
+
+
+
+    </LinearLayout>
+
+
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="Enter an Indian pincode"
+         android:drawableLeft="@drawable/ic_baseline_person_pin_circle_24"
+         android:textSize="17sp"
+         android:layout_marginLeft="15dp"
+         android:textColor="@color/teal_700"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/location_24"
+        android:text="Use my current location"
+        android:textColor="@color/teal_700"
+        android:textSize="17sp"
+        android:layout_marginLeft="16dp"
+        android:paddingBottom="45dp"
+        android:layout_marginTop="15dp"
+
+        />
+
+</LinearLayout>

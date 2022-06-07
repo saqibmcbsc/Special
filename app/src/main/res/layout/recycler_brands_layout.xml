@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_margin="10dp">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="180dp"
+        android:layout_height="220dp">
+
+        <ImageView
+            android:id="@+id/imagefashion1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/fashion1"
+            android:scaleType="fitXY"/>
+
+
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="5dp">
+
+    <TextView
+        android:id="@+id/textdiscount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Up to 76% off"
+        android:background="#EA566C"
+        android:textSize="10dp"
+        android:textColor="@color/white"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Deal of the Day"
+            android:textColor="#EA566C"
+            android:layout_marginLeft="3dp"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Clothing Bestsellers"
+        android:textColor="@color/black"/>
+
+
+</LinearLayout>

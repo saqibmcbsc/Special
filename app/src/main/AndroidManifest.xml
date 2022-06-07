@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.reallove.special">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Special">
+        <activity
+            android:name=".SplashScreen_Activity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+
+        </activity>
+        <activity
+            android:name=".CreateAccount_Activity"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".Login_Activity"
+            android:exported="true"></activity>
+        <activity
+            android:name=".CartActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="true" >
+
+        </activity>
+        <activity
+            android:name=".HomeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Select_Categories_Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Categries2_Activity"
+            android:exported="true" />
+        <activity
+            android:name=".TopBrandes_Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Allu_t_Shirt_click"
+            android:exported="true" />
+        <activity
+            android:name=".PriceActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".BuyNow_Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Mobile_image_Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Categries_Activity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" >
+
+
+
+        </activity>
+    </application>
+
+</manifest>

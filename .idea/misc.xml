@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Special/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1435" />
+        <entry key="..\:/Special/app/src/main/res/drawable/add_an_address_background.xml" value="0.1435" />
+        <entry key="..\:/Special/app/src/main/res/drawable/address_background.xml" value="0.1435" />
+        <entry key="..\:/Special/app/src/main/res/drawable/bottom_sheet_redius.xml" value="0.1435" />
+        <entry key="..\:/Special/app/src/main/res/drawable/button_redius.xml" value="0.1155" />
+        <entry key="..\:/Special/app/src/main/res/drawable/home_24.xml" value="0.136" />
+        <entry key="..\:/Special/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1435" />
+        <entry key="..\:/Special/app/src/main/res/drawable/redious_brands.xml" value="0.136" />
+        <entry key="..\:/Special/app/src/main/res/drawable/redious_categories_image.xml" value="0.1225" />
+        <entry key="..\:/Special/app/src/main/res/drawable/redius_image.xml" value="0.123" />
+        <entry key="..\:/Special/app/src/main/res/drawable/search_redius.xml" value="0.1435" />
+        <entry key="..\:/Special/app/src/main/res/font/font.xml" value="0.2518518518518518" />
+        <entry key="..\:/Special/app/src/main/res/layout/activity_allu_tshirt_click.xml" value="0.176" />
+        <entry key="..\:/Special/app/src/main/res/layout/activity_buy_now.xml" value="0.16" />
+        <entry key="..\:/Special/app/src/main/res/layout/activity_cart.xml" value="0.2" />
+        <entry key="..\:/Special/app/src/main/res/layout/activity_categries.xml" value="0.2" />
+        <entry key="..\:/Special/app/src/main/res/layout/activity_categries2.xml" value="0.176" />
+        <entry key="..\:/Special/app/src/main/res/layout/activity_create_account.xml" value="0.2" />
+        <entry key="..\:/Special/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Special/app/src/main/res/layout/activity_login.xml" value="0.176" />
+        <entry key="..\:/Special/app/src/main/res/layout/activity_logout.xml" value="0.2" />
+        <entry key="..\:/Special/app/src/main/res/layout/activity_main.xml" value="0.136" />
+        <entry key="..\:/Special/app/src/main/res/layout/activity_mobile_image.xml" value="0.2" />
+        <entry key="..\:/Special/app/src/main/res/layout/activity_mobiles_image.xml" value="0.10989583333333333" />
+        <entry key="..\:/Special/app/src/main/res/layout/activity_price2.xml" value="0.2" />
+        <entry key="..\:/Special/app/src/main/res/layout/activity_profile.xml" value="0.152" />
+        <entry key="..\:/Special/app/src/main/res/layout/activity_scanner.xml" value="0.25" />
+        <entry key="..\:/Special/app/src/main/res/layout/activity_select_categories.xml" value="0.176" />
+        <entry key="..\:/Special/app/src/main/res/layout/activity_splash_screen.xml" value="0.176" />
+        <entry key="..\:/Special/app/src/main/res/layout/activity_top_brandes.xml" value="0.2" />
+        <entry key="..\:/Special/app/src/main/res/layout/address_layout.xml" value="0.176" />
+        <entry key="..\:/Special/app/src/main/res/layout/allu_t_shirt_layout.xml" value="0.176" />
+        <entry key="..\:/Special/app/src/main/res/layout/buynow_layout.xml" value="0.12" />
+        <entry key="..\:/Special/app/src/main/res/layout/categories2_layout.xml" value="0.176" />
+        <entry key="..\:/Special/app/src/main/res/layout/dashboard.xml" value="0.1" />
+        <entry key="..\:/Special/app/src/main/res/layout/fragment_bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/Special/app/src/main/res/layout/fragment_cart.xml" value="0.25" />
+        <entry key="..\:/Special/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Special/app/src/main/res/layout/fragment_logout.xml" value="0.25" />
+        <entry key="..\:/Special/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Special/app/src/main/res/layout/gridview_layout.xml" value="0.2" />
+        <entry key="..\:/Special/app/src/main/res/layout/phone_layout.xml" value="0.2" />
+        <entry key="..\:/Special/app/src/main/res/layout/price_layout.xml" value="0.2" />
+        <entry key="..\:/Special/app/src/main/res/layout/recycler_brands_layout.xml" value="0.176" />
+        <entry key="..\:/Special/app/src/main/res/layout/recycler_card_view.xml" value="0.2" />
+        <entry key="..\:/Special/app/src/main/res/layout/recycler_fliper_layout.xml" value="0.25" />
+        <entry key="..\:/Special/app/src/main/res/layout/recycler_layout.xml" value="0.25" />
+        <entry key="..\:/Special/app/src/main/res/layout/recycler_phonelogo_layout.xml" value="0.25" />
+        <entry key="..\:/Special/app/src/main/res/layout/recycler_showphone_layout.xml" value="0.2" />
+        <entry key="..\:/Special/app/src/main/res/layout/recyclerrr_layout.xml" value="0.176" />
+        <entry key="..\:/Special/app/src/main/res/layout/select_product_layout.xml" value="0.176" />
+        <entry key="..\:/Special/app/src/main/res/menu/menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
